@@ -8,7 +8,7 @@ Six different baseline models were created and trained:
 5. Randomized prior network (RPN)
 6. Conditional variational autoencoder (cVAE)
 
-There are Jupyter Notebooks that describe how to load and train the simple [CNN](./demo_notebooks/CNN) and [MLP](./demo_notebooks/MLP) models. The environments and code used to train each model, as well as the pre-trained models, are found in the [```baseline_models/```](https://github.com/leap-stc/ClimSim/tree/main/baseline_models) folder on GitHub.
+There are Jupyter Notebooks that describe how to load and train the simple [CNN](./demo_notebooks/cnn_example) and [MLP](./demo_notebooks/mlp_example) models. The environments and code used to train each model, as well as the pre-trained models, are found in the [```baseline_models/```](https://github.com/leap-stc/ClimSim/tree/main/baseline_models) folder on GitHub.
 
 The dataset used for the baseline models corresponds to the **Low-Resolution Real Geography** dataset. The subset of variables used to train our models is shown below:
 
