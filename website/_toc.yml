@@ -15,4 +15,5 @@ chapters:
 - file: demo_notebooks/mlp_example.ipynb
 - file: demo_notebooks/cnn_example.ipynb
 - file: demo_notebooks/water_conservation.ipynb
+- file: api
 - file: CONTRIBUTING
